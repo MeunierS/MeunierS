@@ -7,7 +7,7 @@ Junior Web Dev
 ![](https://img.shields.io/badge/JS-passing-green)
 ![](https://img.shields.io/badge/PHP-passing-green)
 ![](https://img.shields.io/badge/Bootstrap-passing-green)
-![](https://img.shields.io/badge/Laravel-WIP-yellow)
+![](https://img.shields.io/badge/Laravel-Queued-yellow)
 ![](https://img.shields.io/badge/Node.JS-WIP-yellow)
 
 ## Becode experience
