@@ -7,8 +7,13 @@ Junior Web Dev
 ![](https://img.shields.io/badge/JS-passing-green)
 ![](https://img.shields.io/badge/PHP-passing-green)
 ![](https://img.shields.io/badge/Bootstrap-passing-green)
-![](https://img.shields.io/badge/Laravel-Queued-yellow)
 ![](https://img.shields.io/badge/Node.JS-WIP-yellow)
+![](https://img.shields.io/badge/Tailwind-Queued-red)
+
+## CV
+
+Here you can find my CV done as a web-page : [TODO](https://meuniers.github.io/My-CV/)
+
 
 ## Becode experience
 
