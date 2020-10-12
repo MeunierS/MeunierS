@@ -8,7 +8,8 @@ Junior Web Dev
 ![](https://img.shields.io/badge/PHP-passing-green)
 ![](https://img.shields.io/badge/Bootstrap-passing-green)
 ![](https://img.shields.io/badge/Node.JS-WIP-yellow)
-![](https://img.shields.io/badge/Tailwind-Queued-red)
+![](https://img.shields.io/badge/OOP-WIP-yellow)
+![](https://img.shields.io/badge/Tailwind-WIP-yellow)
 
 ## CV
 
