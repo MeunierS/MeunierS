@@ -13,7 +13,7 @@ Junior Web Dev
 
 ## CV
 
-Here you can find my CV done as a web-page : [TODO](https://meuniers.github.io/My-CV/)
+Here you can find my CV done as a web-page : [TODO]()
 
 
 ## Becode experience
