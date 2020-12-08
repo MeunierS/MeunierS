@@ -9,7 +9,11 @@ Junior Web Dev
 ![](https://img.shields.io/badge/Bootstrap-passing-green)
 ![](https://img.shields.io/badge/Node.JS-WIP-yellow)
 ![](https://img.shields.io/badge/OOP-WIP-yellow)
-![](https://img.shields.io/badge/Tailwind-WIP-yellow)
+![](https://img.shields.io/badge/Wordpress-WIP-yellow)
+
+## Current Project
+
+Here you can find my current project : [node.js project](https://github.com/MeunierS/npProject)
 
 ## CV
 
