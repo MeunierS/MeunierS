@@ -7,9 +7,10 @@ Junior Web Dev
 ![](https://img.shields.io/badge/JS-passing-green)
 ![](https://img.shields.io/badge/PHP-passing-green)
 ![](https://img.shields.io/badge/Bootstrap-passing-green)
-![](https://img.shields.io/badge/Node.JS-WIP-yellow)
-![](https://img.shields.io/badge/OOP-WIP-yellow)
-![](https://img.shields.io/badge/Wordpress-WIP-yellow)
+![](https://img.shields.io/badge/Node.JS-passing-green)
+![](https://img.shields.io/badge/OOP-passing-green)
+![](https://img.shields.io/badge/Wordpress-passing-green)
+![](https://img.shields.io/badge/React-WIP-yellow)
 
 ## Current Project
 
