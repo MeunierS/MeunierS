@@ -1,7 +1,7 @@
 ## Sébastien Meunier
 
 Junior Web Dev  
-![](https://img.shields.io/badge/Company-Becode-blue)
+![](https://img.shields.io/badge/Company-LookingForJob-blue)
 ![](https://img.shields.io/badge/HTML5-passing-green)
 ![](https://img.shields.io/badge/CSS3-passing-green)
 ![](https://img.shields.io/badge/JS-passing-green)
