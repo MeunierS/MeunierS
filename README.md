@@ -20,11 +20,14 @@ Here you can find my current personal project : Iatus
 
 Here you can find my CV done as a web-page : [TODO]()
 
+## Eurocontrol experience
+
+I worked there as a fullstack MERN dev during a 3-months internship.
 
 ## Becode experience
 
-That's my current working experience where I learned how to be a Web Dev.
-With that I also got an internship at Sopra Stria for a mission at Eurocontrol as a backend MERN dev
+That's my first working experience where I learned how to be a Web Dev.
+
 
 ## Portfolio of some project
 
