@@ -31,7 +31,7 @@ That's my first working experience where I learned how to be a Web Dev.
 
 ## Portfolio of some project
 
-Streamler (clone of Netflix, game oriented, PHP) : [Here](https://github.com/MeunierS/Getflix$)
+Streamler (clone of Netflix, game oriented, PHP) : [Here](https://github.com/MeunierS/Getflix)
 
 Chatbot (JS challenge) : [Here](https://github.com/soufianecode/Chatbot)
 
