@@ -14,7 +14,7 @@ Junior Web Dev
 
 ## Current Project
 
-Here you can find my current personal project : Iatus
+Here you can find my current personal project : [path of exile fan site in french](https://github.com/MeunierS/poe-FR-guide)
 
 ## CV
 
