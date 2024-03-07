@@ -1,32 +1,16 @@
 ## Sébastien Meunier
 
-Junior Web Dev  
+Game Dev in training  
 ![](https://img.shields.io/badge/Company-LookingForJob-blue)
-![](https://img.shields.io/badge/HTML5-passing-green)
-![](https://img.shields.io/badge/CSS3-passing-green)
-![](https://img.shields.io/badge/JS-passing-green)
-![](https://img.shields.io/badge/PHP-passing-green)
-![](https://img.shields.io/badge/Bootstrap-passing-green)
-![](https://img.shields.io/badge/Node.JS-passing-green)
-![](https://img.shields.io/badge/Wordpress-passing-green)
-![](https://img.shields.io/badge/React-passing-green)
-![](https://img.shields.io/badge/MongoDB-passing-green)
+![](https://img.shields.io/badge/C#-learning-orange)
 
 ## Current Project
 
-Here you can find my current personal project : [path of exile fan site in french](https://github.com/MeunierS/poe-FR-guide)
+Here you can find my current personal project : None - Game Dev Cursus
 
 ## CV
 
-Here you can find my CV done as a web-page : [TODO]()
-
-## Eurocontrol experience
-
-I worked there as a fullstack MERN dev during a 3-months internship.
-
-## Becode experience
-
-That's my first working experience where I learned how to be a Web Dev.
+Here you can find my CV: [TODO]()
 
 
 ## Portfolio of some project
