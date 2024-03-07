@@ -2,7 +2,7 @@
 
 Game Dev in training  
 ![](https://img.shields.io/badge/Company-LookingForJob-blue)
-![](https://img.shields.io/badge/C#-learning-orange)
+![](https://img.shields.io/badge/CSharp-learning-orange)
 
 ## Current Project
 
