@@ -1,19 +1,22 @@
 ## Sébastien Meunier
 
-Game Dev in training  
+Junior Game Dev
 ![](https://img.shields.io/badge/Company-LookingForJob-blue)
-![](https://img.shields.io/badge/CSharp-learning-orange)
+![](https://img.shields.io/badge/CurrentProject-None-red)
+
 
 ## Current Project
 
-Here you can find my current personal project : None - Game Dev Cursus
+Here you can find my current personal project : None -> Looking for Internship
 
-## CV
+## Itch.io
 
-Here you can find my CV: [TODO]()
+Here you can find my Itch.io: [Here](https://meunierseb.itch.io/)
 
 
-## Portfolio of some project
+## Code Portfolio of some projects
+
+Call of Magic: Archmage Selection : [Here](https://github.com/MeunierS/Call-of-magic-archamage-selection)
 
 Streamler (clone of Netflix, game oriented, PHP) : [Here](https://github.com/MeunierS/Getflix)
 
