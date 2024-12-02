@@ -1,6 +1,6 @@
 ## Sébastien Meunier
 
-Junior Game Dev
+![](https://img.shields.io/badge/Job-JuniorGameDev-purple)
 ![](https://img.shields.io/badge/Company-LookingForJob-blue)
 ![](https://img.shields.io/badge/CurrentProject-None-red)
 
