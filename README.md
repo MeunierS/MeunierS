@@ -8,13 +8,12 @@
 
 ## Current Project
 
-Here you can find my current personal project: None - Currently in internship for Utile Games
-Current pro project: Keshi Odyssey
+Here you can find my current personal project: None - Currently doing reseach for it
+Current pro project: None
 
 ## Itch.io
 
 Here you can find my Itch.io: [Here](https://meunierseb.itch.io/)
-
 
 ## Code Portfolio of some projects
 
@@ -27,4 +26,8 @@ Chatbot (JS challenge): [Here](https://github.com/soufianecode/Chatbot)
 Eat-Hub (group challenge): [Here](https://github.com/AlexJS6/Eat-Hub)
 
 restaurant page (bootstrap): [Here](https://github.com/MeunierS/restaurant-css-framework)
+
+## Past Pro Project I worked on
+
+* Keshi Odyssey for UtileGames (working prototype done as an intern)
 
