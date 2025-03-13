@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/Engine-Unity-black)
 ![](https://img.shields.io/badge/Company-LookingForJob-blue)
 ![](https://img.shields.io/badge/CurrentProject-None-red)
+![](https://img.shields.io/badge/CurrentPersonnalProject-None-red)
 
 
 ## Current Project
