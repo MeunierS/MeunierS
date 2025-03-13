@@ -24,9 +24,9 @@ Shader Gallery: [Here](https://github.com/MeunierS/shader-gallery)
 
 Persistance Pattern & pooling: Shooter exercice [Here](https://github.com/MeunierS/persistance-pattern)
 
-Collectathon: [Here](https://github.com/MeunierS/collectathon)
+Collectathon: Collectibles to pick [Here](https://github.com/MeunierS/collectathon)
 
-Exercice with constraint: Puzzle Notion contraint [Here](https://github.com/MeunierS/exo-25-04-24)
+Exercice with constraint: Puzzle Notion constraint [Here](https://github.com/MeunierS/exo-25-04-24)
 
 Navmesh use with StateMachine: Escape the NPCs [Here](https://github.com/MeunierS/raycast-navmesh)
 
